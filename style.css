@@ -48,7 +48,8 @@ h1 {
 }
 h2 {
   font-size: 1.2rem;
-  color: #6ee7b7;
+  /* color: #6ee7b7; */
+  color: #1fcbda;
   margin: 0 0 1.5rem 0;
   font-weight: 600;
 }
